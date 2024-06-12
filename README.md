@@ -32,7 +32,7 @@ python finetune.py
 We selected four of those methods -- Gradient Ascent (GA), Gradient Difference (GD), KL-divergence and DPO -- that represent the current mainstream for the purpose of benchmarking. The unlearning method can be easily switched in the `config.ymal` file.
 
 ```bash
-python finetune.py
+python forget.py
 ```
 
 ### Cite Our Work
