@@ -1,0 +1,2002 @@
+[
+    {
+        "question": "What was the effective date of the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "06-02-1998.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Jzrcws SA as of 06-02-1998?",
+        "answer": "Wnzatj SAS.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the address of Wnzatj SAS in the contract with Jzrcws SA?",
+        "answer": "941 Tncnje Way.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Wnzatj SAS as of 06-02-1998?",
+        "answer": "Jzrcws SA.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the address of Jzrcws SA in the contract with Wnzatj SAS?",
+        "answer": "094 Aivmae Road.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "T-shirts.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "8.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "36.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "288.",
+        "edge": "A_B"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "5.",
+        "edge": "A_B"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "15.",
+        "edge": "A_B"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "15.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "2%.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "631 Crxtcl Lane.",
+        "edge": "A_B"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "Customer.",
+        "edge": "A_B"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "Customer.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "1.",
+        "edge": "A_B"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "30.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "10.",
+        "edge": "A_B"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Wnzatj SAS and Jzrcws SA?",
+        "answer": "The State of New York.",
+        "edge": "A_B"
+    },
+    {
+        "question": "What was the effective date of the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "02-09-2019.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Jzrcws SA as of 02-09-2019?",
+        "answer": "Qpubwe PLC.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the address of Qpubwe PLC in the contract with Jzrcws SA?",
+        "answer": "628 Oacmkk Alley.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Qpubwe PLC as of 02-09-2019?",
+        "answer": "Jzrcws SA.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the address of Jzrcws SA in the contract with Qpubwe PLC?",
+        "answer": "094 Aivmae Road.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "Jeans.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "27.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "67.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "1809.",
+        "edge": "A_C"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "4.",
+        "edge": "A_C"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "20.",
+        "edge": "A_C"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "10.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "4%.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "927 Ynhghk Lane.",
+        "edge": "A_C"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "Customer.",
+        "edge": "A_C"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "Customer.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "1.",
+        "edge": "A_C"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "15.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "13.",
+        "edge": "A_C"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Qpubwe PLC and Jzrcws SA?",
+        "answer": "The State of North Carolina.",
+        "edge": "A_C"
+    },
+    {
+        "question": "What was the effective date of the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "28-02-2000.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Lasnoj SAS as of 28-02-2000?",
+        "answer": "Jzrcws SA.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the address of Jzrcws SA in the contract with Lasnoj SAS?",
+        "answer": "094 Aivmae Road.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Jzrcws SA as of 28-02-2000?",
+        "answer": "Lasnoj SAS.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the address of Lasnoj SAS in the contract with Jzrcws SA?",
+        "answer": "285 Xymfuz Street.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "Sneakers.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "38.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "69.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "2622.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "5.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "20.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "25.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "3%.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "461 Mzeydb Highway.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "Customer.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "Customer.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "1.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "20.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "13.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Jzrcws SA and Lasnoj SAS?",
+        "answer": "The State of New York.",
+        "edge": "A_C2"
+    },
+    {
+        "question": "What was the effective date of the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "20-04-1988.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Dmimyu GmbH as of 20-04-1988?",
+        "answer": "Jzrcws SA.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the address of Jzrcws SA in the contract with Dmimyu GmbH?",
+        "answer": "094 Aivmae Road.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Jzrcws SA as of 20-04-1988?",
+        "answer": "Dmimyu GmbH.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the address of Dmimyu GmbH in the contract with Jzrcws SA?",
+        "answer": "562 Obsfzl Court.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "Boots.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "7.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "67.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "469.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "3.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "10.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "20.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "5%.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "929 Yabvhc Terrace.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "Seller.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "Seller.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "5.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "10.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "12.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Jzrcws SA and Dmimyu GmbH?",
+        "answer": "The State of Illinois.",
+        "edge": "A_C3"
+    },
+    {
+        "question": "What was the effective date of the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "01-06-1990.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Wnzatj SAS as of 01-06-1990?",
+        "answer": "Avrbci Ltd.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the address of Avrbci Ltd in the contract with Wnzatj SAS?",
+        "answer": "419 Bxmlqw Place.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Avrbci Ltd as of 01-06-1990?",
+        "answer": "Wnzatj SAS.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the address of Wnzatj SAS in the contract with Avrbci Ltd?",
+        "answer": "941 Tncnje Way.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "Scarves.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "2.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "14.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "28.",
+        "edge": "B_D"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "3.",
+        "edge": "B_D"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "5.",
+        "edge": "B_D"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "20.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "1%.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "646 Qefehz Lane.",
+        "edge": "B_D"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "Customer.",
+        "edge": "B_D"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "Customer.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "1.",
+        "edge": "B_D"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "20.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "4.",
+        "edge": "B_D"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Avrbci Ltd and Wnzatj SAS?",
+        "answer": "The State of New York.",
+        "edge": "B_D"
+    },
+    {
+        "question": "What was the effective date of the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "05-09-2002.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Nchdfd AG as of 05-09-2002?",
+        "answer": "Wnzatj SAS.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the address of Wnzatj SAS in the contract with Nchdfd AG?",
+        "answer": "941 Tncnje Way.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Wnzatj SAS as of 05-09-2002?",
+        "answer": "Nchdfd AG.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the address of Nchdfd AG in the contract with Wnzatj SAS?",
+        "answer": "759 Vrbehz Avenue.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "Rings.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "22.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "29.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "638.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "4.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "10.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "25.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "2%.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "989 Kwnozb Crescent.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "Seller.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "Seller.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "3.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "15.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "6.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Wnzatj SAS and Nchdfd AG?",
+        "answer": "The State of Ohio.",
+        "edge": "B_D2"
+    },
+    {
+        "question": "What was the effective date of the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "07-06-1997.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Txctcl AG as of 07-06-1997?",
+        "answer": "Wnzatj SAS.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the address of Wnzatj SAS in the contract with Txctcl AG?",
+        "answer": "941 Tncnje Way.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Wnzatj SAS as of 07-06-1997?",
+        "answer": "Txctcl AG.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the address of Txctcl AG in the contract with Wnzatj SAS?",
+        "answer": "627 Wcwuyv Drive.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "Necklaces.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "9.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "71.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "639.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "4.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "5.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "15.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "2%.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "364 Kracvu Square.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "Seller.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "Customer.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "5.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "5.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "8.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Wnzatj SAS and Txctcl AG?",
+        "answer": "The State of Ohio.",
+        "edge": "B_D3"
+    },
+    {
+        "question": "What was the effective date of the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "14-05-2010.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Ctvepy SAS as of 14-05-2010?",
+        "answer": "Cqndue LLC.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the address of Cqndue LLC in the contract with Ctvepy SAS?",
+        "answer": "729 Edwrdg Terrace.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Cqndue LLC as of 14-05-2010?",
+        "answer": "Ctvepy SAS.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the address of Ctvepy SAS in the contract with Cqndue LLC?",
+        "answer": "432 Rczimd Lane.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "Watches.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "24.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "44.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "1056.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "4.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "10.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "10.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "2%.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "515 Whekqp Square.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "Customer.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "Seller.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "5.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "25.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "6.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Cqndue LLC and Ctvepy SAS?",
+        "answer": "The State of North Carolina.",
+        "edge": "E1_F1"
+    },
+    {
+        "question": "What was the effective date of the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "04-09-1995.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Qsihxg GmbH as of 04-09-1995?",
+        "answer": "Vkitze GmbH.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the address of Vkitze GmbH in the contract with Qsihxg GmbH?",
+        "answer": "153 Fyyije Lane.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Vkitze GmbH as of 04-09-1995?",
+        "answer": "Qsihxg GmbH.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the address of Qsihxg GmbH in the contract with Vkitze GmbH?",
+        "answer": "387 Qcgbms Avenue.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "Handbags.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "59.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "61.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "3599.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "2.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "15.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "10.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "3%.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "953 Aupudl Street.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "Seller.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "Seller.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "4.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "15.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "7.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Vkitze GmbH and Qsihxg GmbH?",
+        "answer": "The State of New York.",
+        "edge": "E2_F2"
+    },
+    {
+        "question": "What was the effective date of the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "26-05-2016.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Mjlwxf NV as of 26-05-2016?",
+        "answer": "Clsvfw AG.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the address of Clsvfw AG in the contract with Mjlwxf NV?",
+        "answer": "153 Mtviwz Place.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Clsvfw AG as of 26-05-2016?",
+        "answer": "Mjlwxf NV.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the address of Mjlwxf NV in the contract with Clsvfw AG?",
+        "answer": "802 Gsvbyw Circle.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "Sunglasses.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "23.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "58.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "1334.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "4.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "10.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "5.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "5%.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "220 Ouqknp Terrace.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "Seller.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "Customer.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "4.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "30.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "7.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Clsvfw AG and Mjlwxf NV?",
+        "answer": "The State of Michigan.",
+        "edge": "E3_F3"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Xqtb Laur, which started from 26-11-1986?",
+        "answer": "Jzrcws SA.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the principal business location of Jzrcws SA based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "094 Aivmae Road.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Jzrcws SA, which started from 26-11-1986?",
+        "answer": "Xqtb Laur.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the address of Xqtb Laur based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "044 Nemqht Crescent.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the start date based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "26-11-1986.",
+        "edge": "A_m"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "48 months.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the job position based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "Software Developer.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the work location based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "684 Yovzxg Court.",
+        "edge": "A_m"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "6.",
+        "edge": "A_m"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "17.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "22.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "weekly.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "dental insurance.",
+        "edge": "A_m"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "14.",
+        "edge": "A_m"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "3.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "11.",
+        "edge": "A_m"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "10.",
+        "edge": "A_m"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "14.",
+        "edge": "A_m"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "7.",
+        "edge": "A_m"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Jzrcws SA and Xqtb Laur?",
+        "answer": "The State of California.",
+        "edge": "A_m"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Skqn Esui, which started from 15-10-1990?",
+        "answer": "Jzrcws SA.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the principal business location of Jzrcws SA based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "094 Aivmae Road.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Jzrcws SA, which started from 15-10-1990?",
+        "answer": "Skqn Esui.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the address of Skqn Esui based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "154 Necwnq Road.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the start date based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "15-10-1990.",
+        "edge": "A_n"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "22 months.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the job position based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "Research Scientist.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the work location based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "023 Lmeguv Circle.",
+        "edge": "A_n"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "10.",
+        "edge": "A_n"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "18.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "14.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "bi-weekly.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "vision insurance.",
+        "edge": "A_n"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "13.",
+        "edge": "A_n"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "8.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "9.",
+        "edge": "A_n"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "8.",
+        "edge": "A_n"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "24.",
+        "edge": "A_n"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "7.",
+        "edge": "A_n"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Jzrcws SA and Skqn Esui?",
+        "answer": "The State of North Carolina.",
+        "edge": "A_n"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Ecxk Avfj, which started from 04-08-2007?",
+        "answer": "Jzrcws SA.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the principal business location of Jzrcws SA based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "094 Aivmae Road.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Jzrcws SA, which started from 04-08-2007?",
+        "answer": "Ecxk Avfj.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the address of Ecxk Avfj based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "644 Kthyza Drive.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the start date based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "04-08-2007.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "41 months.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the job position based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "Data Analyst.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the work location based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "226 Nglqwy Drive.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "9.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "16.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "61.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "bi-weekly.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "health insurance.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "14.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "6.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "7.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "5.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "6.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "7.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Jzrcws SA and Ecxk Avfj?",
+        "answer": "The State of Florida.",
+        "edge": "A_n2"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Mnmi Haem, which started from 23-04-2018?",
+        "answer": "Jzrcws SA.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the principal business location of Jzrcws SA based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "094 Aivmae Road.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Jzrcws SA, which started from 23-04-2018?",
+        "answer": "Mnmi Haem.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the address of Mnmi Haem based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "656 Mdyvvd Highway.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the start date based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "23-04-2018.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "20 months.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the job position based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "Product Manager.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the work location based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "238 Zoqabj Drive.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "9.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "16.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "91.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "bi-weekly.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "dental insurance.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "19.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "9.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "14.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "2.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "17.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "7.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Jzrcws SA and Mnmi Haem?",
+        "answer": "The State of Ohio.",
+        "edge": "A_n3"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Okrb Qxpd, which started from 14-06-1993?",
+        "answer": "Wnzatj SAS.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the principal business location of Wnzatj SAS based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "941 Tncnje Way.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Wnzatj SAS, which started from 14-06-1993?",
+        "answer": "Okrb Qxpd.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the address of Okrb Qxpd based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "636 Pildan Highway.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the start date based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "14-06-1993.",
+        "edge": "B_p"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "42 months.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the job position based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "Brand Ambassador.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the work location based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "765 Ntilcl Place.",
+        "edge": "B_p"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "6.",
+        "edge": "B_p"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "17.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "19.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "bi-weekly.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "employee assistance program.",
+        "edge": "B_p"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "25.",
+        "edge": "B_p"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "3.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "14.",
+        "edge": "B_p"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "9.",
+        "edge": "B_p"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "11.",
+        "edge": "B_p"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "2.",
+        "edge": "B_p"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Wnzatj SAS and Okrb Qxpd?",
+        "answer": "The State of Illinois.",
+        "edge": "B_p"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Tapd Abuk, which started from 13-02-1996?",
+        "answer": "Wnzatj SAS.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the principal business location of Wnzatj SAS based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "941 Tncnje Way.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Wnzatj SAS, which started from 13-02-1996?",
+        "answer": "Tapd Abuk.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the address of Tapd Abuk based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "628 Xsaesj Place.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the start date based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "13-02-1996.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "26 months.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the job position based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "Financial Advisor.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the work location based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "752 Wgryol Street.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "7.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "14.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "37.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "weekly.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "dental insurance.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "21.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "6.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "12.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "12.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "15.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "8.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Wnzatj SAS and Tapd Abuk?",
+        "answer": "The State of Ohio.",
+        "edge": "B_p2"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Yrnw Lvgj, which started from 05-12-1992?",
+        "answer": "Wnzatj SAS.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the principal business location of Wnzatj SAS based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "941 Tncnje Way.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Wnzatj SAS, which started from 05-12-1992?",
+        "answer": "Yrnw Lvgj.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the address of Yrnw Lvgj based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "787 Plieai Street.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the start date based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "05-12-1992.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "11 months.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the job position based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "Investment Banker.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the work location based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "414 Rekebs Drive.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "8.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "16.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "45.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "monthly.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "childcare assistance program.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "21.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "3.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "11.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "7.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "18.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "5.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Wnzatj SAS and Yrnw Lvgj?",
+        "answer": "The State of Florida.",
+        "edge": "B_p3"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Ffsi Mneb, which started from 19-01-1981?",
+        "answer": "Cqndue LLC.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the principal business location of Cqndue LLC based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "729 Edwrdg Terrace.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Cqndue LLC, which started from 19-01-1981?",
+        "answer": "Ffsi Mneb.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the address of Ffsi Mneb based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "798 Wbjiww Alley.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the start date based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "19-01-1981.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "14 months.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the job position based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "Equity Trader.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the work location based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "713 Ubifxa Road.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "10.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "18.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "83.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "bi-weekly.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "health insurance.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "29.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "6.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "11.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "11.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "7.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "8.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Cqndue LLC and Ffsi Mneb?",
+        "answer": "The State of North Carolina.",
+        "edge": "E1_q1"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Ajoo Gufx, which started from 02-02-2015?",
+        "answer": "Vkitze GmbH.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the principal business location of Vkitze GmbH based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "153 Fyyije Lane.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Vkitze GmbH, which started from 02-02-2015?",
+        "answer": "Ajoo Gufx.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the address of Ajoo Gufx based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "537 Sardyj Place.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the start date based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "02-02-2015.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "16 months.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the job position based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "Bond Settler.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the work location based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "765 Hhzuau Place.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "8.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "18.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "81.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "bi-weekly.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "dental insurance.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "25.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "5.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "9.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "8.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "20.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "3.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Vkitze GmbH and Ajoo Gufx?",
+        "answer": "The State of New York.",
+        "edge": "E2_q2"
+    },
+    {
+        "question": "What was the name of the employer in the employment contract with Errg Zipo, which started from 26-02-1984?",
+        "answer": "Mjlwxf NV.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the principal business location of Mjlwxf NV based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "802 Gsvbyw Circle.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the name of the employee in the employment contract with Mjlwxf NV, which started from 26-02-1984?",
+        "answer": "Errg Zipo.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the address of Errg Zipo based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "490 Bymqgy Street.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the start date based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "26-02-1984.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "For how many months will the employer employ the employee based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "19 months.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the job position based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "Risk Controller.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the work location based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "228 Ykijdd Court.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "At what hour did the workday start based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "9.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "At what hour did the workday finish based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "16.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the hourly basic pay in dollars based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "17.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the frequency of salary payment based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "weekly.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What benefit was provided to the employee based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "retirement plan.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "How many days of paid holiday leave were provided to the employee based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "18.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "For how many months after the employment ends was the employee prohibited from disclosing any confidential information based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "3.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "What was the number of days the employee was entitled to Paid Sick Leave in each year of employment based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "12.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "How many weeks' written notice of termination must the employee and employer each provide to the other based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "11.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "For how many months did the non-compete clause cover based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "19.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "How many weeks' written notice must the employer provide before any proposed changes to the terms of employment based on the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "5.",
+        "edge": "E3_q3"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Mjlwxf NV and Errg Zipo?",
+        "answer": "The State of Ohio.",
+        "edge": "E3_q3"
+    }
+]

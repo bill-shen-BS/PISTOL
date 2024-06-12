@@ -1,0 +1,80 @@
+
+{
+    "goods_items": [
+        "T-shirts", "Jeans", "Sneakers", "Boots", "Scarves",
+        "Rings", "Necklaces", "Watches", "Handbags", "Sunglasses",
+        "Smartphones", "Laptop computers", "Video recorder", "iPads", "Headphones",
+        "Sofas", "Dining tables", "Shoe storages", "TV stands", "Armchairs",
+        "Pillows", "Blankets", "Mattresses", "Bed sheets", "Curtains",
+        "Refrigerators", "Microwave ovens", "Kettles", "Blender", "Coffee machines",
+        "Shower gel", "Shampoo", "Toothpaste", "Toilet paper", "Hair conditioner",
+        "Pens", "Staplers", "Scissors", "Notebooks", "Folders",
+        "Soccer balls", "Tennis rackets", "Golf putters", "Ski poles", "Hockey sticks",
+        "Guitars", "Piano", "Violins", "Drums", "Flutes",
+        "Paintings", "Sculptures", "Photographs", "Drawings", "Prints",
+        "Patio tiles", "Gardening tools", "Grass seeds", "Fertilizers", "Plant pots", 
+        "Sandwich", "Pizza", "Steaks", "Sushi", "Burgers",
+        "Bikes", "Skateboards", "Scooters", "Rollerblades", "Cars",
+        "Dog beds", "Cat trees", "Fish tanks", "Bird cages", "Hamster wheels",
+        "Board games", "Puzzles", "Dices", "Chess sets", "Playing cards",
+        "Paracetamol", "Ibuprofen", "Antibiotics", "Vitamins", "Cough syrup",
+        "Orange juice", "Milk", "Soda", "Wine", "Beer",
+        "Shotguns", "Rifles", "Pistols", "Cartridges", "Knives",
+        "Nails", "Screws", "Sockets", "Hammers", "Drills"
+    ],
+    "sale_parties": [
+        "Seller", "Customer"
+    ],
+    "governing_law": [
+        "The State of New York", 
+        "The State of California", 
+        "The State of Texas", 
+        "The State of Florida", 
+        "The State of Illinois", 
+        "The State of Pennsylvania", 
+        "The State of Ohio", 
+        "The State of Georgia", 
+        "The State of North Carolina", 
+        "The State of Michigan"
+    ],
+    "job_pisition": [
+        "Software Developer", "Research Scientist", "Data Analyst", "Product Manager", "Brand Ambassador",
+        "Financial Advisor", "Investment Banker", "Equity Trader", "Bond Settler", "Risk Controller",
+        "Nurse", "Doctor", "Dentist", "Pharmacist", "Physical Therapist",
+        "Solicitor", "Barrister", "Paralegal", "Judge", "Legal Counsel",
+        "Marketer", "Sales Representative", "PR Specialist", "Event Coordinator", "Content Writer",
+        "Teacher", "Professor", "Tutor", "School Principal", "College Master",
+        "Geologist", "Biologist", "Chemist", "Physicist", "Astronomer",
+        "Police Sergeant", "Detective", "Public Prosecutor", "Prison Guard", "Forensic Officer",
+        "Mechanical Engineer", "Electrician", "Plumber", "Welder", "Carpenter",
+        "Chef", "Waiter", "Bartender", "Sommelier", "Barista",
+        "Real Estate Agent", "Title Examiner", "Mortgage Broker", "Appraiser", "Leasing Consultant",
+        "Footballer", "Golfer", "Coach", "Referee", "Tennis Player",
+        "Journalist", "Editor", "Reporter", "Columnist", "Copywriter",
+        "Flight Attendant", "Pilot", "Captain", "Aircraft Mechanic", "Sailor",
+        "Musician", "Singer", "Composer", "Conductor", "Music Producer",
+        "Actor", "Director", "Screenwriter", "Cinematographer", "Make-up Artist",
+        "Fashion Designer", "Model", "Stylist", "Tailor", "Fashion Blogger",
+        "Executive Assistant", "Operations Associate", "Secretary", "Receptionist", "Headhunter", 
+        "Architect", "Librarian", "Dietitian", "Paramedic", "Accountant",
+        "Civil Servant", "Public Administrator", "Urban Planner", "Surveyor", "Tax Collector"
+    ],
+    "employer_benefit_plans": [
+        "health insurance",
+        "dental insurance",
+        "vision insurance",
+        "retirement plan",
+        "life insurance",
+        "disability insurance",
+        "employee assistance program",
+        "childcare assistance program",
+        "transportation benefits",
+        "general wellness program"
+    ],
+    "salary_frequency": [
+        "weekly",
+        "bi-weekly",
+        "monthly"
+    ]
+}
+    
