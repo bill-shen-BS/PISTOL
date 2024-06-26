@@ -1,4 +1,4 @@
-# PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs [Paper Link](https://arxiv.org/abs/2406.16810)
+# [PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs](https://arxiv.org/abs/2406.16810)
 
 ### Abstract
 
