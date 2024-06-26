@@ -24,8 +24,8 @@ Specifically for our sample dataset used in the paper:
 
 The graph illustraion for Sample datasest 1 and 2 can be found below:
 
-<img src="image/sample_dataset_1_structure.png" width="300">
-<img src="image/sample_dataset_2_structure.png" width="300">
+<img src="image/sample_dataset_1_structure.png" width="200">
+<img src="image/sample_dataset_2_structure.png" width="200">
 
 ### **Applicability**
 
