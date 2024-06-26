@@ -9,6 +9,24 @@
 
 Recently, machine unlearning, which seeks to erase specific data stored in the pre-trained or fine-tuned models, has emerged as a crucial protective measure for LLMs. However, unlearning approaches for LLMs that have been considered thus far have focused on the removal of independent data points and have not taken into account that the stored facts are logically connected to one another and form an implicit knowledge graph. To facilitate the development of **structural** unlearning methods, which are essential for the practical application of unlearning, we propose PISTOL, a pipeline for compiling multi-scenario datasets for benchmarking structural LLM unlearning. Additionally, leveraging sample datasets synthesized using PISTOL, we conducted benchmarks with four distinct unlearning methods on both Llama2-7B and Mistral-7B models. This analysis helps to illustrate the prevailing challenges in effectively and robustly removing highly inter-connected data, batched data, or data skewed towards a specific domain. It also highlights the choice of pre-trained model can impact unlearning performance. This work not only advances our understandings on the limitation of current LLMs unlearning methods and proposes future research directions, but also provides a replicable framework for ongoing exploration and validation in the field.
 
+### Data Compilation Pipeline
+
+The pipeline for compiling datasets in a controlled manner is illustrated in Figure shown below: ![Compilation](image/pipeline.png)
+
+Specifically for our sample dataset used in the paper:
+- The first step is to craft the overall knowledge-graph structure, taking into account the structural variation of unlearning and the specific problem to investigate. 
+
+- We set the contract template, each with 20 attributes to be filled in. We focused on two ubiquitous types of contracts, sales of goods and employment contracts, owing to their more standardized structure in contrast to other highly customized agreements like corporate sale and purchase agreements or share subscription agreements. 
+
+- We generate attributes in a random manner, taking into account the dataset size. In our sample datasets, we randomly generate 6 letters and a suffix for a company name (e.g. Empblq LLC), 4 letters for the first name and the surname of a person (e.g. Jkeq Cyfz), 3 numbers, 6 letters and a street type for an address (e.g. 442 Rcvvyy Boulevard). Other attributes such as the signing date, contractual terms, and governing jurisdiction are also randomly generated. 
+
+- Finally, we prepare a QA pair for each attribute. 
+
+The graph illustraion for Sample datasest 1 and 2 can be found below:
+
+<img src="image/sample_dataset_1_structure.png" width="300">
+<img src="image/sample_dataset_2_structure.png" width="300">
+
 ### **Applicability**
 
 The dataset is in QA format based on structural graphs, making it ideal for use with popular chat models such as Llama2 or Mistral. However, it also works for any other large language model. The corresponding code base is written for the Llama2-7B chat and Mistral-7B, but can be easily adapted to other models.
