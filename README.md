@@ -1,4 +1,4 @@
-# PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs
+# PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs [Paper Link](https://arxiv.org/abs/2406.16810)
 
 ### Abstract
 
@@ -38,3 +38,14 @@ python forget.py
 ### Cite Our Work
 
 If you find our codebase and dataset beneficial, please kindly cite our work. If you have any thoughts or questions on the project, please don’t hesitate to reach to us! 😊
+
+```
+@misc{pistol2024,
+      title={PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs},
+      author={Xinchi Qiu, William F. Shen, Yihong Chen, Nicola Cancedda, Pontus Stenetorp, Nicholas D. Lane},
+      year={2024},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
