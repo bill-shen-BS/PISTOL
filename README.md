@@ -1,4 +1,4 @@
-# PISTOL: Compilation Dataset for Structural LLM Unlearning
+# PISTOL: Data Compilation for Structural LLM Unlearning
 
 ### Quick Links
 
@@ -12,9 +12,12 @@
   </a>
 </div>
 
+### TL;DR
 
+We provide a pipeline for multi-scenario datasets for benchmarking structural LLM unlearning.
 
 ### Abstract
+<img src="image/structural_unlearning_illu.png" width="300">
 
 Recently, machine unlearning, which seeks to erase specific data stored in the pre-trained or fine-tuned models, has emerged as a crucial protective measure for LLMs. However, unlearning approaches for LLMs that have been considered thus far have focused on the removal of independent data points and have not taken into account that the stored facts are logically connected to one another and form an implicit knowledge graph. To facilitate the development of **structural** unlearning methods, which are essential for the practical application of unlearning, we propose PISTOL, a pipeline for compiling multi-scenario datasets for benchmarking structural LLM unlearning. Additionally, leveraging sample datasets synthesized using PISTOL, we conducted benchmarks with four distinct unlearning methods on both Llama2-7B and Mistral-7B models. This analysis helps to illustrate the prevailing challenges in effectively and robustly removing highly inter-connected data, batched data, or data skewed towards a specific domain. It also highlights the choice of pre-trained model can impact unlearning performance. This work not only advances our understandings on the limitation of current LLMs unlearning methods and proposes future research directions, but also provides a replicable framework for ongoing exploration and validation in the field.
 
@@ -46,10 +49,6 @@ We selected four of those methods -- Gradient Ascent (GA), Gradient Difference (
 python forget.py
 ```
 
-### Structural Unlearning
-Our work aims to improve the evaluation of LLM unlearning algorithms by contributing a novel dataset compilation pipeline that is able to synthesize datasets which reflect the realistic LLM unlearning needs and mirror real-world data structures. Specifically, we noticed that real data are not always independent. Data points are often inter-connected, creating knowledge graphs with intricate topologies as shown below in the illutration.
-
-<img src="image/structural_unlearning_illu.png" width="300">
 
 
 ### Data Compilation Pipeline
@@ -69,7 +68,7 @@ The graph illustraion for Sample datasest 1 and 2 can be found below:
 
 <p float="left">
   <img src="image/sample_dataset_1_structure.png" width="300">
-  <img src="image/sample_dataset_2_structure.png" width="300">
+  <img src="image/sample_dataset_2_structure.png" width="270">
 </p>
 
 
