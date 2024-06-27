@@ -1,4 +1,4 @@
-# PISTOL: Compilation Dataset for Structural LLM Unlearning
+# PISTOL: Data Compilation for Structural LLM Unlearning
 
 ### Quick Links
 
