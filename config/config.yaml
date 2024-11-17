@@ -9,6 +9,7 @@ flash_attention2: false
 gradient_checkpointing: true
 
 # Choose compiled dataset
+dataset_name: pistol_sample1
 data_path: data/sample_data_1.json #data/sample_data_2.json
 
 
@@ -29,7 +30,7 @@ ft:
   num_epochs: 20 
   lr: 1e-4 
   weight_decay: 0
-  save_dir: models_finetune/${model_family}/${ft.num_epochs}epochs_LoRA${ft.LoRA_r}_lr${ft.lr}
+  save_dir: models_finetune/${dataset_name}/${model_family} #/${ft.num_epochs}epochs_LoRA${ft.LoRA_r}_lr${ft.lr}
 
 forget:
   LoRA_r: 8
@@ -51,5 +52,5 @@ eval:
     max_length: 512
     ds_size: 200
     max_new_tokens: null
-  ft_save_dir: eval/${model_family}/ft/${ft.num_epochs}epochs_LoRA${ft.LoRA_r}_lr${ft.lr}
+  ft_save_dir: eval/${model_family}/ft/ #${ft.num_epochs}epochs_LoRA${ft.LoRA_r}_lr${ft.lr}
   forget_save_dir: eval/run1/${model_family}/${forget_type}/${forget.forget_loss}_${forget.num_epochs}epochs_LoRA${forget.LoRA_r}_lr${forget.lr}"
