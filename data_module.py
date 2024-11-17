@@ -7,14 +7,43 @@ import datasets
 from datasets import load_dataset
 from datasets import Dataset as HFDataset
 
+LLAMA3_CHAT_TEMPLATE = """<|start_header_id|>user<|end_header_id|>
+
+{instruction}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+"""
+
+QWEN_CHAT_TEMPLATE = """<|im_start|>user
+{instruction}<|im_end|>
+<|im_start|>assistant
+"""
+
+LLAMA2_CHAT_TEMPLATE = "[INST] {instruction} [/INST]"
+
+GEMMA_CHAT_TEMPLATE = """<start_of_turn>user
+{instruction}<end_of_turn>
+<start_of_turn>model
+"""
 
 def convert_raw_data_to_model_qa(tokenizer, max_length,  question, answer, configs):
-    question_start_token =  configs['question_start_tag']
-    question_end_token = configs['question_end_tag']
-    answer_token = configs['answer_tag']
-    new_question = question_start_token + question + question_end_token
-    new_answer = answer_token + answer
-    full_text = new_question + new_answer
+    if configs['model_family'] == "llama3-8b-instruct":
+        new_question = LLAMA3_CHAT_TEMPLATE.format(instruction=question)
+    elif configs['model_family'] == "Qwen2-7B-Instruct":
+        new_question = QWEN_CHAT_TEMPLATE.format(instruction=question)
+    elif configs['model_family'] == "llama2-7b-chat":
+        new_question = LLAMA2_CHAT_TEMPLATE.format(instruction=question)
+    elif configs['model_family'] == "gemma-7b-it":
+        new_question = GEMMA_CHAT_TEMPLATE.format(instruction=question)
+    else:
+        # question_start_token =  configs['question_start_tag']
+        # question_end_token = configs['question_end_tag']
+        # answer_token = configs['answer_tag']
+        # new_question = question_start_token + question + question_end_token
+        # new_answer = answer_token + answer
+        # full_text = new_question + new_answer
+        raise ValueError(f"Invalid model_family")
+    
+    full_text = new_question + answer
     num_question_tokens = len(tokenizer.tokenize(new_question, add_special_tokens=True))
 
     encoded = tokenizer(

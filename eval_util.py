@@ -1,4 +1,5 @@
 from tqdm import tqdm
+import re
 import torch
 import evaluate
 from rouge_score import rouge_scorer
@@ -81,12 +82,30 @@ def get_all_evals(cfg, model, tokenizer, eval_dataloader):
 
 def run_generation(cfg, batch, model, tokenizer):
     input_ids = batch["input_ids"]
-    input_strings = tokenizer.batch_decode(input_ids, skip_special_tokens=True)
-    split_symbol = " [/INST]" 
+    if cfg.model_family == "llama3-8b-instruct":
+        input_strings = tokenizer.batch_decode(input_ids, skip_special_tokens=False) #skip special token was TRUE for llama2b
+        split_symbol = "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+    elif cfg.model_family == "Qwen2-7B-Instruct":
+        input_strings = tokenizer.batch_decode(input_ids, skip_special_tokens=False)
+        split_symbol = "<|im_end|>\n<|im_start|>assistant\n"
+    elif cfg.model_family == "gemma-7b-it":
+        input_strings = tokenizer.batch_decode(input_ids, skip_special_tokens=False)
+        split_symbol = "<end_of_turn>\n<start_of_turn>model\n"
+    else:
+        input_strings = tokenizer.batch_decode(input_ids, skip_special_tokens=True)
+        split_symbol = " [/INST]" 
+
     ground_truth = [s.split(split_symbol)[1] for s in input_strings]
     input_strings = [s.split(split_symbol)[0] for s in input_strings]
-    if cfg.model_family == 'llama2-7b-chat' or 'mistral-7b-instruct':
-        input_strings = [s + split_symbol for s in input_strings]
+    input_strings = [s + split_symbol for s in input_strings]
+
+    if cfg.model_family == "llama3-8b-instruct":
+        ground_truth = [re.sub(r'(<\|eot_id\|>)+$', '', re.sub(r'\n\n', '', text)) for text in ground_truth]
+    elif cfg.model_family == "Qwen2-7B-Instruct":
+        ground_truth = [re.sub(r'(<\|im_end\|>)+$', '', re.sub(r'\n<\|im_start\|>assistant', '', text)) for text in ground_truth]
+    elif cfg.model_family == "gemma-7b-it":
+        ground_truth = [re.sub(r'(<eos>)+$', '', re.sub(r'\n<start_of_turn>model', '', text)) for text in ground_truth]
+
     
     #tokenize the strings with left padding
     left_pad_tokenizer = tokenizer
